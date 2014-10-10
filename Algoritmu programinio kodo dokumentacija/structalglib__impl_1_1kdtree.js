@@ -1,0 +1,26 @@
+var structalglib__impl_1_1kdtree =
+[
+    [ "approxf", "structalglib__impl_1_1kdtree.html#a513ed0fc0d7f0bb69a6a2f53f1fdb3a5", null ],
+    [ "boxmax", "structalglib__impl_1_1kdtree.html#a9f5755fd5ce920ab10a177b489535356", null ],
+    [ "boxmin", "structalglib__impl_1_1kdtree.html#a48a0e70e6c1dd68fe470630a13b18709", null ],
+    [ "buf", "structalglib__impl_1_1kdtree.html#a9920f9ab44972a20b07493f6a432a267", null ],
+    [ "curboxmax", "structalglib__impl_1_1kdtree.html#a9b9436fae94f722bdcfea9cae020aa48", null ],
+    [ "curboxmin", "structalglib__impl_1_1kdtree.html#a2d4160cddf303c0d8d648e166e025efd", null ],
+    [ "curdist", "structalglib__impl_1_1kdtree.html#a23506edf2dcef430eeba93a7fd6365ea", null ],
+    [ "debugcounter", "structalglib__impl_1_1kdtree.html#a0c511ce322ab919f0e8f192421dcd7ed", null ],
+    [ "idx", "structalglib__impl_1_1kdtree.html#a7bc590f1e3a7b8fb6639f12feec067a8", null ],
+    [ "kcur", "structalglib__impl_1_1kdtree.html#a5232f7f00c89d3274bdfe6020c8619d8", null ],
+    [ "kneeded", "structalglib__impl_1_1kdtree.html#aa8a54ac1131d3ccd7b54421747887b8d", null ],
+    [ "n", "structalglib__impl_1_1kdtree.html#a452e918314e4d6096360b00652495389", null ],
+    [ "nodes", "structalglib__impl_1_1kdtree.html#a4709e3be0b10714b54c1253e2704841b", null ],
+    [ "normtype", "structalglib__impl_1_1kdtree.html#a28f8c4dc78ba026f077b8ae18512c012", null ],
+    [ "nx", "structalglib__impl_1_1kdtree.html#a372f61477bf8316128ca6a06276dc4b4", null ],
+    [ "ny", "structalglib__impl_1_1kdtree.html#a1e03391df3abf5d5e046aa5d8f7735e4", null ],
+    [ "r", "structalglib__impl_1_1kdtree.html#aa3c3fb070331f4e68dfbbd9d92d27730", null ],
+    [ "rneeded", "structalglib__impl_1_1kdtree.html#a9701fa95f711cbc2d27474bfb370aad3", null ],
+    [ "selfmatch", "structalglib__impl_1_1kdtree.html#a1d66faae2dd4792d8e7b32aba582c9b2", null ],
+    [ "splits", "structalglib__impl_1_1kdtree.html#a49918a58d96c46f59557622298f6e15d", null ],
+    [ "tags", "structalglib__impl_1_1kdtree.html#ab5de1420ecd4138a2cecd3b88aa306d5", null ],
+    [ "x", "structalglib__impl_1_1kdtree.html#a62cb8681edc72997e21d961277e5ed68", null ],
+    [ "xy", "structalglib__impl_1_1kdtree.html#abb1b07d44cb26b37d5437a4db7ff6350", null ]
+];
